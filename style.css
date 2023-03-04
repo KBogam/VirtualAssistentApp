@@ -1,0 +1,47 @@
+.btn{
+    height:50px;
+    width:200px;
+    border-radius: 5px;
+    background-color:rgb(100, 207, 100);
+    font-size:30px;
+    font-family: 'Overpass', sans-serif;
+    border:0px;
+    color:white;
+    text-align: center;
+
+
+}
+
+.textbox{
+    height:50px;
+    width:600px;
+    border:1px black solid;
+    font-size:30px;
+    font-family: 'Overpass', sans-serif;
+    margin-top:300px;
+    margin-left:100px;
+    border:0px;
+}
+
+
+.container{
+    height:600px;
+    background-color:rgb(119, 119, 119);
+    border-radius:10px;
+    width:1000px;
+    margin-top:100px;
+    margin-left:450px;
+
+}
+
+body{
+    background-color:rgb(106, 106, 106);
+}
+
+
+.text{
+    font-size:30px;
+    color:white;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
